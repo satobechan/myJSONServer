@@ -2,22 +2,21 @@
   "users": [
     {
       "id": 1,
-      "name": "主田",
-      "age": 24,
-      "personalColor": "blue"
+      "firstname": "勉",
+      "lastname": "主田",
+      "age": 24
     },
     {
       "id": 2,
-      "name": "先岡",
-      "age": 28,
-      "personalColor": "pink"
+      "firstname": "未来",
+      "lastname": "先岡",
+      "age": 28
     },
     {
       "id": 3,
-      "name": "後藤",
-      "age": 23,
-      "personalColor": "green",
-      "hobbies": ["game", "soccer"]
+      "firstname": "一郎",
+      "lastname": "後藤",
+      "age": 23
     }
   ]
 }
